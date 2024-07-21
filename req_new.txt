@@ -7,7 +7,7 @@ dnspython==2.2.1
 docxcompose==1.3.4
 docxtpl==0.15.2
 email-validator==1.1.3
-eventlet==0.33.0
+eventlet==0.35.2
 Flask==2.0.3
 Flask-JSGlue==0.3.1
 greenlet==1.1.2
