@@ -11,7 +11,7 @@ eventlet==0.33.0
 Flask==2.0.3
 Flask-JSGlue==0.3.1
 greenlet==1.1.2
-idna==3.3
+idna==3.7
 importlib-metadata==4.8.3
 itsdangerous==2.0.1
 Jinja2==3.0.3
