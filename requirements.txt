@@ -11,7 +11,7 @@ Flask==2.0.3
 Flask-JSGlue==0.3.1
 Flask-SocketIO==5.1.1
 greenlet==1.1.2
-idna==3.3
+idna==3.7
 itsdangerous==2.1.2
 Jinja2==3.0.3
 lxml==4.8.0
